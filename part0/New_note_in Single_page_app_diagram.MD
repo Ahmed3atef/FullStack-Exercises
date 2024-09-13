@@ -13,7 +13,7 @@ sequenceDiagram
 
     Note left of server: the server response with status code 201 and with no more requests
 
-    Note right of browser: also the browser after sending the request, strating to run redrawNotes function to add new note to same page without reloading it
+    Note right of browser: also the browser before sending the request, strating to run redrawNotes function to add new note to same page without reloading it
     
 
 ```
